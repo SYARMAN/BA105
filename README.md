@@ -1,0 +1,89 @@
+           <=================== "CCTV ➤ =============================>
+
+
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",NOL KM (1)
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/chunklist_w797659833.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",NOL KM (2)
+https://mam.jogjaprov.go.id:1937/atcs-kota/KMNol.stream/chunklist_w327255893.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Kawasan Tugu
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewTugu.stream/chunklist_w1039454854.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Simpang Tugu
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewSimpangTugu.stream/chunklist_w1865669256.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Simpang Pingit (1)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit1.stream/chunklist_w1034097150.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Simpang Pingit (2)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit2.stream/chunklist_w1313710975.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Simpang Pingit (3)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit3.stream/chunklist_w1967862192.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Simpang Pingit (4)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit4.stream/chunklist_w43813416.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Pertigaan Jl. Kyai Mojo (Toko A.Takrib) 1
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_KyaiMojo.stream/chunklist_w557891769.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",BPK
+https://mam.jogjaprov.go.id:1937/atcs-kota/BPK.stream/chunklist_w924060688.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Wirobrajan
+https://mam.jogjaprov.go.id:1937/atcs-kota/Wirobrajan.stream/chunklist_w1481120965.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Patangpuluhan (SPBU Bugisan) (1)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_SugengJeroni1.stream/chunklist_w572908058.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Patangpuluhan (SPBU Bugisan) (2)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_SugengJeroni2.stream/chunklist_w1112828954.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Simpang Terban (KFC Sudirman)
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Utara.stream/chunklist_w750897143.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Mirota Kampus Simanjuntak
+https://mam.jogjaprov.go.id:1937/atcs-kota/MirotaKampus.stream/chunklist_w19614407.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Simpang Demangan (Empire XXI) 1
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Utara.stream/chunklist_w241056475.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Simpang Demangan (Empire XXI) 2
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Timur.stream/chunklist_w198073159.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Simpang Demangan (Empire XXI) 3
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Selatan.stream/chunklist_w1165720762.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Depan Hotel Grand Mercure
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_DeBritto_View_Utara.stream/chunklist_w1443260072.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Plaza Ambarrukmo
+http://103.71.191.168/8912/hls/live.stream.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Hotel Cavinton
+https://mam.jogjaprov.go.id:1937/atcs-kota/Serangan.stream/chunklist_w692658022.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Hotel Inna Garuda (1)
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanGaruda.stream/chunklist_w90059632.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Malioboro Mall
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/chunklist_w2049014652.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Beringharjo
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/chunklist_w256102437.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Alun-Alun Selatan
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/chunklist_w133850215.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Gondomanan
+https://mam.jogjaprov.go.id:1937/atcs-kota/Gondomanan.stream/chunklist_w1404126465.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Pasar Gading (DayTrans Travel) (2)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_PasarGading2.stream/chunklist_w1134102916.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Jokteng Wetan (Dealer Piaggio)
+https://mam.jogjaprov.go.id:1937/atcs-kota/JoktengWetan.stream/chunklist_w1016905556.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Jl. Kol. Sugiyono (Dealer Mitsubishi) (1)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_KolSugiono1.stream/chunklist_w1152700400.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Jl. Kol. Sugiyono (Dealer Mitsubishi) (2)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_KolSugiono2.stream/chunklist_w1071462869.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Lempuyangan (Toko Intisari)
+https://mam.jogjaprov.go.id:1937/atcs-kota/Tunjung.stream/chunklist_w555549290.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Gayam
+https://mam.jogjaprov.go.id:1937/atcs-kota/Gayam.stream/chunklist_w1910678128.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Kauman
+https://mam.jogjaprov.go.id:1937/atcs-kota/Permata.stream/chunklist_w205073418.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Pertigaan Tamsis
+https://mam.jogjaprov.go.id:1937/atcs-kota/Sentul.stream/chunklist_w1107545712.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Taman Makam Pahlawan Kusumanegara
+https://mam.jogjaprov.go.id:1937/atcs-kota/Cendana.stream/chunklist_w417543410.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",GOR Amongrogo
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Amongrogo_View_Timur.stream/chunklist_w569088877.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Timoho (Kampus APMD)
+https://mam.jogjaprov.go.id:1937/atcs-kota/APMD.stream/chunklist_w1680669229.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Perempatan XT Square Pintu Belakang
+https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_MenteriSupeno2.stream/chunklist_w1057610383.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",SGM
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangSGM.stream/chunklist_w267449320.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Candi Sambisari
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiSambisari.stream/chunklist_w993506618.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Merapi
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w1563702546.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Embung Nglanggeran
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNglanggeran.stream/chunklist_w172440882.m3u8
+#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Tebing Breksi
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/chunklist_w1301384993.m3u8
